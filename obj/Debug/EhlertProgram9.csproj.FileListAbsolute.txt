@@ -1,0 +1,10 @@
+C:\Users\Kaleb\source\repos\EhlertProgram9\EhlertProgram9\bin\Debug\EhlertProgram9.exe.config
+C:\Users\Kaleb\source\repos\EhlertProgram9\EhlertProgram9\bin\Debug\EhlertProgram9.exe
+C:\Users\Kaleb\source\repos\EhlertProgram9\EhlertProgram9\bin\Debug\EhlertProgram9.pdb
+C:\Users\Kaleb\source\repos\EhlertProgram9\EhlertProgram9\obj\Debug\EhlertProgram9.csprojResolveAssemblyReference.cache
+C:\Users\Kaleb\source\repos\EhlertProgram9\EhlertProgram9\obj\Debug\EhlertProgram9.Calculator.resources
+C:\Users\Kaleb\source\repos\EhlertProgram9\EhlertProgram9\obj\Debug\EhlertProgram9.Properties.Resources.resources
+C:\Users\Kaleb\source\repos\EhlertProgram9\EhlertProgram9\obj\Debug\EhlertProgram9.csproj.GenerateResource.Cache
+C:\Users\Kaleb\source\repos\EhlertProgram9\EhlertProgram9\obj\Debug\EhlertProgram9.csproj.CoreCompileInputs.cache
+C:\Users\Kaleb\source\repos\EhlertProgram9\EhlertProgram9\obj\Debug\EhlertProgram9.exe
+C:\Users\Kaleb\source\repos\EhlertProgram9\EhlertProgram9\obj\Debug\EhlertProgram9.pdb
